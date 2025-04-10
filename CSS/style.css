@@ -18,3 +18,12 @@
     width: 50px;
     height: 50px;
 }
+.footer {
+    padding: 20px 0;
+    background-color:#e8f5e9;
+}
+.footer .social-icons a {
+    margin: 0 10px;
+    color: #6a6a6a; /* grey color for social icons */
+    font-size: 18px;
+}
