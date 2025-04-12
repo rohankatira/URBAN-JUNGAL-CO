@@ -74,7 +74,7 @@ Urban Jungle Co. is an eCommerce website designed to provide customers with a wi
 ## **6. Usage Instructions**
 1. **Clone the Repository**: 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/your-username/urban-jungle-co.git
    ```
 2. **Open the Project**: Navigate to the project directory and open `index.html` in a web browser.
 3. **Explore the Features**: Browse through the categories, add products to the cart, and view customer testimonials.
